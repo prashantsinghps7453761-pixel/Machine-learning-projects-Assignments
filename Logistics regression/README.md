@@ -1,0 +1,1 @@
+This project implements a Logistic Regression machine learning model to perform classification on a dataset. The model predicts categorical outcomes based on input features using the logistic (sigmoid) function.
